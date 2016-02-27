@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">Spaces4all</string>
     <string name="action_settings">Settings</string>
+
+
+    <!-- Main Activity -->
+
+    <string name="map_tab_title">Map</string>
+    <string name="list_tab_title">POIs</string>
+    <string name="testAccessToken">pk.eyJ1IjoiZWxsb3phb2ZpY2lhbCIsImEiOiJjaWwzaXdtZDkwMGNwdzdtMGRpOWtzdXJuIn0.Ij-NykgW79ZTCrmfjk6_0g</string>
+
+
 </resources>
